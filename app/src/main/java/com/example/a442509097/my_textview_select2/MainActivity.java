@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             "Pricing and availability have not yet been announced, these being market-specific, and a full list of specs is not yet available from LG, but we’ll update the post as soon as we get our hands on it. LG has announced four new smartphones that join the X family, and its already existent members, the X cam and X screen. According to the official wording, the new X power, X mach, X style and X max \"share many of the top end features found on LG’s flagship G and V series handsets\". \"Greater battery capacity, faster ...";
 
     private String text;
-    String regular = "[\n\r`~!@#$%^&*()+=|{}:;,\\[\\].<>/?~！@#￥%……&*（）——+|{}\\-【】‘；：”“。，、？\\\"]"; //包括过滤空格(在里面空格就是空格)
+    String regular = "[\n\r`~!@#$%^&*()+=|{}:;,\\[\\].<>/?~！@#￥%……&*（）——+|{}\\-【】‘；：”“。，、？\\\"]";
 
 
     @Override
